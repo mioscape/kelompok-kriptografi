@@ -7,11 +7,11 @@ Repository ini merupakan repository untuk Tugas Kelompok Mata Kuliah Kriptografi
     - Full Vigenere Cipher
     - Auto-Key Vigenere Cipher
 - Extended Vigenere Cipher (256 karakter ASCII)
-- Playfair Cipher (26 karakter)
+<!-- - Playfair Cipher (26 karakter) -->
 - Super Enkripsi: : Vigenere Cipher standard + cipher transposisi 
 - Affine Cipher (26 huruf)
-- Hill Cipher (26 huruf)
-- Enigma Cipher (26 huruf)
+<!-- - Hill Cipher (26 huruf) -->
+<!-- - Enigma Cipher (26 huruf) -->
 
 Aplikasi yang kami bangun adalah aplikasi berbasis web. Adapun teknologi yang kami gunakan untuk membangun aplikasi ini adalah bahasa Javascript dengan menggunakan *framework* express.
 
